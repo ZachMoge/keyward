@@ -10,11 +10,11 @@
   https://www.passbolt.com
 ```
 [![Docker Pulls](https://img.shields.io/docker/pulls/passbolt/passbolt.svg?style=flat-square)](https://hub.docker.com/r/passbolt/passbolt/tags/)
-[![GitHub release](https://img.shields.io/github/release/passbolt/passbolt_docker.svg?style=flat-square)](https://github.com/passbolt/passbolt_docker/releases)
-[![license](https://img.shields.io/github/license/passbolt/passbolt_docker.svg?style=flat-square)](https://github.com/passbolt/passbolt_docker/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/passbolt/loveuscity.svg?style=flat-square)](https://github.com/passbolt/loveuscity/releases)
+[![license](https://img.shields.io/github/license/passbolt/loveuscity.svg?style=flat-square)](https://github.com/passbolt/loveuscity/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/passbolt.svg?style=social&label=Follow)](https://twitter.com/passbolt)
 
-# What is passbolt?
+# loveuscity
 
 Passbolt is a free and open source password manager that allows team members to
 store and share credentials securely.
