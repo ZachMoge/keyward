@@ -14,7 +14,7 @@
 [![license](https://img.shields.io/github/license/passbolt/loveuscity.svg?style=flat-square)](https://github.com/passbolt/loveuscity/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/passbolt.svg?style=social&label=Follow)](https://twitter.com/passbolt)
 
-# GHC
+# keyward
 
 Passbolt is a free and open source password manager that allows team members to
 store and share credentials securely.
